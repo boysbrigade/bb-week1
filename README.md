@@ -1,3 +1,4 @@
+## Name:
 # bb-week1
 
 ## What you need to do this week
@@ -10,11 +11,18 @@ To create a Github account:
 3. Enter your details and create an account
 
 ### Task 2
-Fork this repo by clicking the [fork](https://github.com/boysbrigade/bb-week1/fork) button in the top right corner.  
-Open VSCode by pressing the `.` key on your keyboard while in the repo webpage. (Or by going to https://github.dev)
+1. Fork this repository by clicking the `Fork` button in the top right corner of this page.
+2. Edit this file by putting your name to the name field (just first name is fine)
+3. Commit your changes and use a sensible commit message (e.g. "Added name", not "Did an update")
 
-Create an index.html file and push it to github. The index.html file should contain the following:
-+ A doctype and html tags
-+ At least one heading
-+ At least one paragraph
-+ At least one link
+### Task 3
+1. Create a new file in this repository called `hello.txt`
+2. Add some text to the file
+3. Commit your changes
+
+### Optional task
+Create a Pull Request to merge your changes into this repository.
+1. Click the Contribute and then Open Pull Request
+   ![How to open a PR](PR-example.png)
+2. Write a sensible title and description for your PR
+3. Click Create Pull Request
