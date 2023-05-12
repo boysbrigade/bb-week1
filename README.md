@@ -1,7 +1,7 @@
 ## Name:
 # bb-week1
-Feel free to contact Nathan on:
-1. [Discord](https://boysbrigade.au/discord)
+Feel free to contact me (Nathan) on:
+1. [Discord](https://boysbrigade.au/discord) (Also has Isaac)
 2. [Email](mailto:bb@nathan.woodburn.au)
 
 ## What you need to do this week
