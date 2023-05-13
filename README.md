@@ -2,7 +2,8 @@
 # bb-week1
 Feel free to contact me (Nathan) on:
 1. [Discord](https://boysbrigade.au/discord) (Also has Isaac)
-2. [Email](mailto:bb@nathan.woodburn.au)
+2. [Discord Bridge](https://cloud.woodburn.au/call/hrqkbrri) (Forwards to Discord for people without Discord) use password `BBTech`
+3. [Email](mailto:bb@nathan.woodburn.au)
 
 ## What you need to do this week
 ### Task 1
